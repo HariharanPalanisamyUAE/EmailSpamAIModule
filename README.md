@@ -27,7 +27,7 @@ Installation
 Clone the Repository:
 
 text
-git clone https://github.com/yourusername/email-spam-classifier.git
+git clone 
 cd email-spam-classifier
 Install Dependencies:
 Use the provrequirements.txt to install required packages:
